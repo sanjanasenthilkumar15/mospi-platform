@@ -1,0 +1,10 @@
+Team Name: Team Nexus
+Institute: R.M.K Engineering College
+Team Members:
+1. Akshaya Swati R - Team Lead and Data Engineer
+2. Sanjana MS - Backend Developer
+3. RithishKumar M - AI lead
+4. Priyan R - Research and Development
+5. Mabel Dannee S - Frontend Developer
+
+GitHub Repository Link: https://github.com/sanjanasenthilkumar15/mospi-platform.git
